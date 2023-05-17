@@ -1,0 +1,1388 @@
+[
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 1,
+              "Tiempo Vuelta (s)": 230.338512,
+              "Tiempo paso por meta (s)": 230.338512,
+              "Tiempo desde primer mensaje (s)": 9.519286000000022,
+              "(Vuelta / Sector) N\u00ba": "1.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 230.338512
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "1.00",
+              "(Sector / Tramo) N\u00ba": "0.02",
+              "Tiempo Tramo (s)": 0.6328849999999875,
+              "Tiempo paso por tramo (s)": 230.971397,
+              "Tiempo desde primer mensaje (s)": 10.15217100000001
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "1.00",
+              "(Sector / Tramo) N\u00ba": "0.03",
+              "Tiempo Tramo (s)": 0.5809440000000166,
+              "Tiempo paso por tramo (s)": 231.552341,
+              "Tiempo desde primer mensaje (s)": 10.733115000000026
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "1.00",
+              "(Sector / Tramo) N\u00ba": "0.04",
+              "Tiempo Tramo (s)": 0.5294479999999737,
+              "Tiempo paso por tramo (s)": 232.081789,
+              "Tiempo desde primer mensaje (s)": 11.262563
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "1.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.5825770000000148,
+              "Tiempo paso por tramo (s)": 232.664366,
+              "Tiempo desde primer mensaje (s)": 11.845140000000015
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "1.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.5311399999999935,
+              "Tiempo paso por tramo (s)": 233.195506,
+              "Tiempo desde primer mensaje (s)": 12.376280000000008
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "1.01",
+              "(Sector / Tramo) N\u00ba": "1.03",
+              "Tiempo Tramo (s)": 0.5809580000000096,
+              "Tiempo paso por tramo (s)": 233.776464,
+              "Tiempo desde primer mensaje (s)": 12.957238000000018
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "1.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.4770859999999857,
+              "Tiempo paso por tramo (s)": 234.25355,
+              "Tiempo desde primer mensaje (s)": 13.434324000000004
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "1.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.636099999999999,
+              "Tiempo paso por tramo (s)": 234.88965,
+              "Tiempo desde primer mensaje (s)": 14.070424000000003
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "1.02",
+              "(Sector / Tramo) N\u00ba": "2.03",
+              "Tiempo Tramo (s)": 0.8444390000000226,
+              "Tiempo paso por tramo (s)": 235.734089,
+              "Tiempo desde primer mensaje (s)": 14.914863000000025
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "1.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.8978449999999896,
+              "Tiempo paso por tramo (s)": 236.631934,
+              "Tiempo desde primer mensaje (s)": 15.812708000000015
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "1.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.5780900000000031,
+              "Tiempo paso por tramo (s)": 237.210024,
+              "Tiempo desde primer mensaje (s)": 16.390798000000018
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 2,
+              "Tiempo Vuelta (s)": 7.400851999999986,
+              "Tiempo paso por meta (s)": 237.739364,
+              "Tiempo desde primer mensaje (s)": 16.92013800000001,
+              "(Vuelta / Sector) N\u00ba": "2.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.5293399999999906
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "2.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.6341670000000192,
+              "Tiempo paso por tramo (s)": 238.373531,
+              "Tiempo desde primer mensaje (s)": 17.554305000000028
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "2.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.5784459999999854,
+              "Tiempo paso por tramo (s)": 238.951977,
+              "Tiempo desde primer mensaje (s)": 18.132751000000013
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "2.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 1.211748,
+              "Tiempo paso por tramo (s)": 240.163725,
+              "Tiempo desde primer mensaje (s)": 19.344499000000013
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "2.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.5272449999999935,
+              "Tiempo paso por tramo (s)": 240.69097,
+              "Tiempo desde primer mensaje (s)": 19.871744000000007
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "2.02",
+              "(Sector / Tramo) N\u00ba": "2.03",
+              "Tiempo Tramo (s)": 0.5783660000000168,
+              "Tiempo paso por tramo (s)": 241.269336,
+              "Tiempo desde primer mensaje (s)": 20.450110000000024
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "2.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.47545699999997737,
+              "Tiempo paso por tramo (s)": 241.744793,
+              "Tiempo desde primer mensaje (s)": 20.925567
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "2.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.740602000000024,
+              "Tiempo paso por tramo (s)": 242.485395,
+              "Tiempo desde primer mensaje (s)": 21.666169000000025
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "2.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 1.0034359999999936,
+              "Tiempo paso por tramo (s)": 243.488831,
+              "Tiempo desde primer mensaje (s)": 22.66960500000002
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "2.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.8969840000000033,
+              "Tiempo paso por tramo (s)": 244.385815,
+              "Tiempo desde primer mensaje (s)": 23.56658900000002
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "2.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.5829489999999851,
+              "Tiempo paso por tramo (s)": 244.968764,
+              "Tiempo desde primer mensaje (s)": 24.149538000000007
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 3,
+              "Tiempo Vuelta (s)": 7.651132000000018,
+              "Tiempo paso por meta (s)": 245.390496,
+              "Tiempo desde primer mensaje (s)": 24.571270000000027,
+              "(Vuelta / Sector) N\u00ba": "3.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.42173200000002
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "3.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.36971099999999524,
+              "Tiempo paso por tramo (s)": 245.760207,
+              "Tiempo desde primer mensaje (s)": 24.940981000000022
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "3.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.6848179999999786,
+              "Tiempo paso por tramo (s)": 246.445025,
+              "Tiempo desde primer mensaje (s)": 25.625799
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "3.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.4250460000000089,
+              "Tiempo paso por tramo (s)": 246.870071,
+              "Tiempo desde primer mensaje (s)": 26.05084500000001
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "3.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.37143700000001445,
+              "Tiempo paso por tramo (s)": 247.241508,
+              "Tiempo desde primer mensaje (s)": 26.422282000000024
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "3.02",
+              "(Sector / Tramo) N\u00ba": "2.03",
+              "Tiempo Tramo (s)": 0.31568999999998937,
+              "Tiempo paso por tramo (s)": 247.557198,
+              "Tiempo desde primer mensaje (s)": 26.737972000000013
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "3.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.3152780000000064,
+              "Tiempo paso por tramo (s)": 247.872476,
+              "Tiempo desde primer mensaje (s)": 27.05325000000002
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "3.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.3158909999999935,
+              "Tiempo paso por tramo (s)": 248.188367,
+              "Tiempo desde primer mensaje (s)": 27.369141000000013
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "3.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 0.42021299999998973,
+              "Tiempo paso por tramo (s)": 248.60858,
+              "Tiempo desde primer mensaje (s)": 27.789354000000003
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "3.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.5298670000000243,
+              "Tiempo paso por tramo (s)": 249.138447,
+              "Tiempo desde primer mensaje (s)": 28.319221000000027
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "3.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.4221029999999928,
+              "Tiempo paso por tramo (s)": 249.56055,
+              "Tiempo desde primer mensaje (s)": 28.74132400000002
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 4,
+              "Tiempo Vuelta (s)": 4.4864439999999774,
+              "Tiempo paso por meta (s)": 249.87694,
+              "Tiempo desde primer mensaje (s)": 29.057714000000004,
+              "(Vuelta / Sector) N\u00ba": "4.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.3163899999999842
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "4.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.3168100000000038,
+              "Tiempo paso por tramo (s)": 250.19375,
+              "Tiempo desde primer mensaje (s)": 29.374524000000008
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "4.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.31447400000001835,
+              "Tiempo paso por tramo (s)": 250.508224,
+              "Tiempo desde primer mensaje (s)": 29.688998000000026
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "4.01",
+              "(Sector / Tramo) N\u00ba": "1.03",
+              "Tiempo Tramo (s)": 0.31738199999998074,
+              "Tiempo paso por tramo (s)": 250.825606,
+              "Tiempo desde primer mensaje (s)": 30.006380000000007
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "4.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.42073100000001773,
+              "Tiempo paso por tramo (s)": 251.246337,
+              "Tiempo desde primer mensaje (s)": 30.427111000000025
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "4.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.3689599999999871,
+              "Tiempo paso por tramo (s)": 251.615297,
+              "Tiempo desde primer mensaje (s)": 30.796071000000012
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "4.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.63603599999999,
+              "Tiempo paso por tramo (s)": 252.251333,
+              "Tiempo desde primer mensaje (s)": 31.432107000000002
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "4.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.31685300000000893,
+              "Tiempo paso por tramo (s)": 252.568186,
+              "Tiempo desde primer mensaje (s)": 31.74896000000001
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "4.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 0.4231760000000122,
+              "Tiempo paso por tramo (s)": 252.991362,
+              "Tiempo desde primer mensaje (s)": 32.17213600000002
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "4.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.525353999999993,
+              "Tiempo paso por tramo (s)": 253.516716,
+              "Tiempo desde primer mensaje (s)": 32.697490000000016
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "4.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.3695150000000069,
+              "Tiempo paso por tramo (s)": 253.886231,
+              "Tiempo desde primer mensaje (s)": 33.06700500000002
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 5,
+              "Tiempo Vuelta (s)": 4.2742020000000025,
+              "Tiempo paso por meta (s)": 254.151142,
+              "Tiempo desde primer mensaje (s)": 33.33191600000001,
+              "(Vuelta / Sector) N\u00ba": "5.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.2649109999999837
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "5.00",
+              "(Sector / Tramo) N\u00ba": "0.02",
+              "Tiempo Tramo (s)": 1.160696999999999,
+              "Tiempo paso por tramo (s)": 255.311839,
+              "Tiempo desde primer mensaje (s)": 34.492613000000006
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "5.00",
+              "(Sector / Tramo) N\u00ba": "0.03",
+              "Tiempo Tramo (s)": 0.26380600000001664,
+              "Tiempo paso por tramo (s)": 255.575645,
+              "Tiempo desde primer mensaje (s)": 34.75641900000002
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "5.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 1.0528869999999984,
+              "Tiempo paso por tramo (s)": 256.628532,
+              "Tiempo desde primer mensaje (s)": 35.80930600000002
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "5.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.36813699999999017,
+              "Tiempo paso por tramo (s)": 256.996669,
+              "Tiempo desde primer mensaje (s)": 36.17744300000001
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 6,
+              "Tiempo Vuelta (s)": 3.4285390000000007,
+              "Tiempo paso por meta (s)": 257.579681,
+              "Tiempo desde primer mensaje (s)": 36.76045500000001,
+              "(Vuelta / Sector) N\u00ba": "6.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.5830119999999965
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "6.00",
+              "(Sector / Tramo) N\u00ba": "0.02",
+              "Tiempo Tramo (s)": 1.1591880000000288,
+              "Tiempo paso por tramo (s)": 258.738869,
+              "Tiempo desde primer mensaje (s)": 37.919643000000036
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "6.00",
+              "(Sector / Tramo) N\u00ba": "0.03",
+              "Tiempo Tramo (s)": 0.5800499999999715,
+              "Tiempo paso por tramo (s)": 259.318919,
+              "Tiempo desde primer mensaje (s)": 38.49969300000001
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "6.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.21142500000001974,
+              "Tiempo paso por tramo (s)": 259.530344,
+              "Tiempo desde primer mensaje (s)": 38.71111800000003
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "6.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.2623919999999771,
+              "Tiempo paso por tramo (s)": 259.792736,
+              "Tiempo desde primer mensaje (s)": 38.973510000000005
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "6.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.6857249999999908,
+              "Tiempo paso por tramo (s)": 260.478461,
+              "Tiempo desde primer mensaje (s)": 39.659234999999995
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "6.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.31617199999999457,
+              "Tiempo paso por tramo (s)": 260.794633,
+              "Tiempo desde primer mensaje (s)": 39.97540699999999
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 7,
+              "Tiempo Vuelta (s)": 3.478504999999984,
+              "Tiempo paso por meta (s)": 261.058186,
+              "Tiempo desde primer mensaje (s)": 40.23895999999999,
+              "(Vuelta / Sector) N\u00ba": "7.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.2635530000000017
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "7.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.2634710000000382,
+              "Tiempo paso por tramo (s)": 261.321657,
+              "Tiempo desde primer mensaje (s)": 40.50243100000003
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "7.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.26332700000000386,
+              "Tiempo paso por tramo (s)": 261.584984,
+              "Tiempo desde primer mensaje (s)": 40.765758000000034
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "7.01",
+              "(Sector / Tramo) N\u00ba": "1.03",
+              "Tiempo Tramo (s)": 0.2640349999999785,
+              "Tiempo paso por tramo (s)": 261.849019,
+              "Tiempo desde primer mensaje (s)": 41.02979300000001
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "7.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.36946100000000115,
+              "Tiempo paso por tramo (s)": 262.21848,
+              "Tiempo desde primer mensaje (s)": 41.39925400000001
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "7.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.47461500000002843,
+              "Tiempo paso por tramo (s)": 262.693095,
+              "Tiempo desde primer mensaje (s)": 41.87386900000004
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "7.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.580693999999994,
+              "Tiempo paso por tramo (s)": 263.273789,
+              "Tiempo desde primer mensaje (s)": 42.454563000000036
+       },
+       {
+              "DERRAPE": 263.327354
+       },
+       {
+              "DERRAPE": 263.434039
+       },
+       {
+              "DERRAPE": 263.539777
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "7.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 1.1648209999999608,
+              "Tiempo paso por tramo (s)": 264.43861,
+              "Tiempo desde primer mensaje (s)": 43.619384
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "7.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.5275790000000029,
+              "Tiempo paso por tramo (s)": 264.966189,
+              "Tiempo desde primer mensaje (s)": 44.146963
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "7.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.31540300000000343,
+              "Tiempo paso por tramo (s)": 265.281592,
+              "Tiempo desde primer mensaje (s)": 44.462366
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 8,
+              "Tiempo Vuelta (s)": 4.48664500000001,
+              "Tiempo paso por meta (s)": 265.544831,
+              "Tiempo desde primer mensaje (s)": 44.725605,
+              "(Vuelta / Sector) N\u00ba": "8.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.26323899999999867
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "8.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.737715000000037,
+              "Tiempo paso por tramo (s)": 266.282546,
+              "Tiempo desde primer mensaje (s)": 45.46332000000004
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "8.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.317737999999963,
+              "Tiempo paso por tramo (s)": 266.600284,
+              "Tiempo desde primer mensaje (s)": 45.781058
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "8.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.263054000000011,
+              "Tiempo paso por tramo (s)": 266.863338,
+              "Tiempo desde primer mensaje (s)": 46.04411200000001
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "8.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.4231550000000084,
+              "Tiempo paso por tramo (s)": 267.286493,
+              "Tiempo desde primer mensaje (s)": 46.46726700000002
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "8.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.264082999999971,
+              "Tiempo paso por tramo (s)": 267.550576,
+              "Tiempo desde primer mensaje (s)": 46.73134999999999
+       },
+       {
+              "DERRAPE": 268.185803
+       },
+       {
+              "DERRAPE": 268.290394
+       },
+       {
+              "DERRAPE": 268.396172
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "8.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 1.3739250000000425,
+              "Tiempo paso por tramo (s)": 268.924501,
+              "Tiempo desde primer mensaje (s)": 48.105275000000034
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "8.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.5804549999999722,
+              "Tiempo paso por tramo (s)": 269.504956,
+              "Tiempo desde primer mensaje (s)": 48.68573000000001
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "8.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.31439100000000053,
+              "Tiempo paso por tramo (s)": 269.819347,
+              "Tiempo desde primer mensaje (s)": 49.00012100000001
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 9,
+              "Tiempo Vuelta (s)": 4.537904000000026,
+              "Tiempo paso por meta (s)": 270.082735,
+              "Tiempo desde primer mensaje (s)": 49.26350900000003,
+              "(Vuelta / Sector) N\u00ba": "9.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.2633880000000204
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "9.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.21218599999997423,
+              "Tiempo paso por tramo (s)": 270.294921,
+              "Tiempo desde primer mensaje (s)": 49.475695
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "9.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.47366800000003195,
+              "Tiempo paso por tramo (s)": 270.768589,
+              "Tiempo desde primer mensaje (s)": 49.949363000000034
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "9.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.3163549999999873,
+              "Tiempo paso por tramo (s)": 271.084944,
+              "Tiempo desde primer mensaje (s)": 50.26571800000002
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "9.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.26484199999998737,
+              "Tiempo paso por tramo (s)": 271.349786,
+              "Tiempo desde primer mensaje (s)": 50.53056000000001
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "9.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.42183399999998983,
+              "Tiempo paso por tramo (s)": 271.77162,
+              "Tiempo desde primer mensaje (s)": 50.952394
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "9.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.26388100000002623,
+              "Tiempo paso por tramo (s)": 272.035501,
+              "Tiempo desde primer mensaje (s)": 51.216275000000024
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "9.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 0.26319200000000365,
+              "Tiempo paso por tramo (s)": 272.298693,
+              "Tiempo desde primer mensaje (s)": 51.47946700000003
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "9.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.3674179999999865,
+              "Tiempo paso por tramo (s)": 272.666111,
+              "Tiempo desde primer mensaje (s)": 51.846885000000015
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "9.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.263054000000011,
+              "Tiempo paso por tramo (s)": 272.929165,
+              "Tiempo desde primer mensaje (s)": 52.109939000000026
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 10,
+              "Tiempo Vuelta (s)": 3.057029,
+              "Tiempo paso por meta (s)": 273.139764,
+              "Tiempo desde primer mensaje (s)": 52.32053800000003,
+              "(Vuelta / Sector) N\u00ba": "10.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.21059900000000198
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "10.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.476524999999981,
+              "Tiempo paso por tramo (s)": 273.616289,
+              "Tiempo desde primer mensaje (s)": 52.79706300000001
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "10.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.5806350000000293,
+              "Tiempo paso por tramo (s)": 274.196924,
+              "Tiempo desde primer mensaje (s)": 53.37769800000004
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "10.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.6835779999999545,
+              "Tiempo paso por tramo (s)": 274.880502,
+              "Tiempo desde primer mensaje (s)": 54.06127599999999
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "10.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.2621340000000032,
+              "Tiempo paso por tramo (s)": 275.142636,
+              "Tiempo desde primer mensaje (s)": 54.323409999999996
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "10.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 0.2614040000000273,
+              "Tiempo paso por tramo (s)": 275.40404,
+              "Tiempo desde primer mensaje (s)": 54.58481400000002
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "10.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.3688149999999837,
+              "Tiempo paso por tramo (s)": 275.772855,
+              "Tiempo desde primer mensaje (s)": 54.95362900000001
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 11,
+              "Tiempo Vuelta (s)": 3.108825999999965,
+              "Tiempo paso por meta (s)": 276.24859,
+              "Tiempo desde primer mensaje (s)": 55.42936399999999,
+              "(Vuelta / Sector) N\u00ba": "11.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.47573499999998603
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "11.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.1590439999999944,
+              "Tiempo paso por tramo (s)": 276.407634,
+              "Tiempo desde primer mensaje (s)": 55.58840799999999
+       },
+       {
+              "DERRAPE": 276.566026
+       },
+       {
+              "DERRAPE": 276.670753
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "11.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.368376000000012,
+              "Tiempo paso por tramo (s)": 276.77601,
+              "Tiempo desde primer mensaje (s)": 55.956784
+       },
+       {
+              "DERRAPE": 276.829399
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "11.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.9998830000000112,
+              "Tiempo paso por tramo (s)": 277.775893,
+              "Tiempo desde primer mensaje (s)": 56.95666700000001
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "11.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.47453799999999546,
+              "Tiempo paso por tramo (s)": 278.250431,
+              "Tiempo desde primer mensaje (s)": 57.431205000000006
+       },
+       {
+              "DERRAPE": 278.408461
+       },
+       {
+              "DERRAPE": 278.513692
+       },
+       {
+              "DERRAPE": 278.619854
+       },
+       {
+              "DERRAPE": 278.726638
+       },
+       {
+              "DERRAPE": 278.831689
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "11.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.633954000000017,
+              "Tiempo paso por tramo (s)": 278.884385,
+              "Tiempo desde primer mensaje (s)": 58.06515900000002
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "11.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.7382539999999835,
+              "Tiempo paso por tramo (s)": 279.622639,
+              "Tiempo desde primer mensaje (s)": 58.803413000000006
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "11.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.5261960000000272,
+              "Tiempo paso por tramo (s)": 280.148835,
+              "Tiempo desde primer mensaje (s)": 59.32960900000003
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "11.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.31686299999995526,
+              "Tiempo paso por tramo (s)": 280.465698,
+              "Tiempo desde primer mensaje (s)": 59.64647199999999
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 12,
+              "Tiempo Vuelta (s)": 4.429015000000049,
+              "Tiempo paso por meta (s)": 280.677605,
+              "Tiempo desde primer mensaje (s)": 59.85837900000004,
+              "(Vuelta / Sector) N\u00ba": "12.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.21190700000005336
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "12.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.21067699999997558,
+              "Tiempo paso por tramo (s)": 280.888282,
+              "Tiempo desde primer mensaje (s)": 60.06905600000002
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "12.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.7933929999999805,
+              "Tiempo paso por tramo (s)": 281.681675,
+              "Tiempo desde primer mensaje (s)": 60.862449
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "12.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.2102530000000229,
+              "Tiempo paso por tramo (s)": 281.891928,
+              "Tiempo desde primer mensaje (s)": 61.07270200000002
+       },
+       {
+              "DERRAPE": 282.205775
+       },
+       {
+              "DERRAPE": 282.311119
+       },
+       {
+              "DERRAPE": 282.416684
+       },
+       {
+              "DERRAPE": 282.521823
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "12.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.7354710000000182,
+              "Tiempo paso por tramo (s)": 282.627399,
+              "Tiempo desde primer mensaje (s)": 61.80817300000004
+       },
+       {
+              "DERRAPE": 282.945053
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "12.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 0.6858049999999594,
+              "Tiempo paso por tramo (s)": 283.313204,
+              "Tiempo desde primer mensaje (s)": 62.493978
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "12.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 0.5801270000000045,
+              "Tiempo paso por tramo (s)": 283.893331,
+              "Tiempo desde primer mensaje (s)": 63.074105
+       },
+       {
+              "Posible Perdida de": "R"
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 13,
+              "Tiempo Vuelta (s)": 3.796803999999952,
+              "Tiempo paso por meta (s)": 284.474409,
+              "Tiempo desde primer mensaje (s)": 63.655182999999994,
+              "(Vuelta / Sector) N\u00ba": "13.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.5810779999999909
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "13.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.21289699999999812,
+              "Tiempo paso por tramo (s)": 284.687306,
+              "Tiempo desde primer mensaje (s)": 63.86807999999999
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "13.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.526613999999995,
+              "Tiempo paso por tramo (s)": 285.21392,
+              "Tiempo desde primer mensaje (s)": 64.39469399999999
+       },
+       {
+              "Posible Perdida de": "C"
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "13.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.47557400000005146,
+              "Tiempo paso por tramo (s)": 285.689494,
+              "Tiempo desde primer mensaje (s)": 64.87026800000004
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "13.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.527243999999996,
+              "Tiempo paso por tramo (s)": 286.216738,
+              "Tiempo desde primer mensaje (s)": 65.39751200000003
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "13.02",
+              "(Sector / Tramo) N\u00ba": "2.03",
+              "Tiempo Tramo (s)": 0.7381079999999542,
+              "Tiempo paso por tramo (s)": 286.954846,
+              "Tiempo desde primer mensaje (s)": 66.13561999999999
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "13.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.5770940000000451,
+              "Tiempo paso por tramo (s)": 287.53194,
+              "Tiempo desde primer mensaje (s)": 66.71271400000003
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "13.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 1.2116659999999797,
+              "Tiempo paso por tramo (s)": 288.743606,
+              "Tiempo desde primer mensaje (s)": 67.92438000000001
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "13.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 1.5279469999999833,
+              "Tiempo paso por tramo (s)": 290.271553,
+              "Tiempo desde primer mensaje (s)": 69.452327
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "13.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 1.0544930000000363,
+              "Tiempo paso por tramo (s)": 291.326046,
+              "Tiempo desde primer mensaje (s)": 70.50682000000003
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "13.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.7899889999999914,
+              "Tiempo paso por tramo (s)": 292.116035,
+              "Tiempo desde primer mensaje (s)": 71.29680900000002
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 14,
+              "Tiempo Vuelta (s)": 8.273059000000046,
+              "Tiempo paso por meta (s)": 292.747468,
+              "Tiempo desde primer mensaje (s)": 71.92824200000004,
+              "(Vuelta / Sector) N\u00ba": "14.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.6314330000000155
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "14.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 0.8980540000000019,
+              "Tiempo paso por tramo (s)": 293.645522,
+              "Tiempo desde primer mensaje (s)": 72.82629600000004
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "14.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.7912009999999441,
+              "Tiempo paso por tramo (s)": 294.436723,
+              "Tiempo desde primer mensaje (s)": 73.61749699999999
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "14.01",
+              "(Sector / Tramo) N\u00ba": "1.03",
+              "Tiempo Tramo (s)": 0.6824720000000184,
+              "Tiempo paso por tramo (s)": 295.119195,
+              "Tiempo desde primer mensaje (s)": 74.299969
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "14.02",
+              "(Sector / Tramo) N\u00ba": "2.01",
+              "Tiempo Tramo (s)": 0.7387370000000146,
+              "Tiempo paso por tramo (s)": 295.857932,
+              "Tiempo desde primer mensaje (s)": 75.03870600000002
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "14.02",
+              "(Sector / Tramo) N\u00ba": "2.02",
+              "Tiempo Tramo (s)": 0.6868029999999976,
+              "Tiempo paso por tramo (s)": 296.544735,
+              "Tiempo desde primer mensaje (s)": 75.72550900000002
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "14.02",
+              "(Sector / Tramo) N\u00ba": "2.03",
+              "Tiempo Tramo (s)": 0.8980189999999766,
+              "Tiempo paso por tramo (s)": 297.442754,
+              "Tiempo desde primer mensaje (s)": 76.623528
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "14.03",
+              "(Sector / Tramo) N\u00ba": "3.01",
+              "Tiempo Tramo (s)": 0.6881970000000024,
+              "Tiempo paso por tramo (s)": 298.130951,
+              "Tiempo desde primer mensaje (s)": 77.311725
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "14.03",
+              "(Sector / Tramo) N\u00ba": "3.02",
+              "Tiempo Tramo (s)": 1.3205480000000307,
+              "Tiempo paso por tramo (s)": 299.451499,
+              "Tiempo desde primer mensaje (s)": 78.63227300000003
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "14.03",
+              "(Sector / Tramo) N\u00ba": "3.03",
+              "Tiempo Tramo (s)": 1.636686999999995,
+              "Tiempo paso por tramo (s)": 301.088186,
+              "Tiempo desde primer mensaje (s)": 80.26896000000002
+       },
+       {
+              "Cambio a": "R"
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "14.04",
+              "(Sector / Tramo) N\u00ba": "4.01",
+              "Tiempo Tramo (s)": 1.104315999999983,
+              "Tiempo paso por tramo (s)": 302.192502,
+              "Tiempo desde primer mensaje (s)": 81.373276
+       },
+       {
+              "_____________RECTA_____________": "",
+              "(Vuelta / Sector) N\u00ba": "14.04",
+              "(Sector / Tramo) N\u00ba": "4.02",
+              "Tiempo Tramo (s)": 0.7921739999999886,
+              "Tiempo paso por tramo (s)": 302.984676,
+              "Tiempo desde primer mensaje (s)": 82.16544999999999
+       },
+       {
+              "**************NUEVA VUELTA***************** NUMERO": 15,
+              "Tiempo Vuelta (s)": 10.925670999999966,
+              "Tiempo paso por meta (s)": 303.673139,
+              "Tiempo desde primer mensaje (s)": 82.853913,
+              "(Vuelta / Sector) N\u00ba": "15.00",
+              "(Sector / Tramo) N\u00ba": "0.01",
+              "Tiempo Tramo (s)": 0.6884630000000129
+       },
+       {
+              "Cambio a": "C"
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "15.01",
+              "(Sector / Tramo) N\u00ba": "1.01",
+              "Tiempo Tramo (s)": 1.0516489999999976,
+              "Tiempo paso por tramo (s)": 304.724788,
+              "Tiempo desde primer mensaje (s)": 83.905562
+       },
+       {
+              ".............CURVA.............": "",
+              "(Vuelta / Sector) N\u00ba": "15.01",
+              "(Sector / Tramo) N\u00ba": "1.02",
+              "Tiempo Tramo (s)": 0.8423510000000078,
+              "Tiempo paso por tramo (s)": 305.567139,
+              "Tiempo desde primer mensaje (s)": 84.74791300000001
+       }
+]
