@@ -7,7 +7,6 @@ tiempo_anterior=0
 Tiempo_Vuelta=0
 Tiempo_paso	= 0
 metasList=[]
-diferencias = 0
 Tiempo=0
 json_object=""
 rolling=0
@@ -51,7 +50,6 @@ with open('contadorvueltas1.csv')as file:
                  "Tiempo paso por meta(s)":Tiempo/1000000, "Tiempo paso por meta(s) coche":Tiempo_paso,"Diferencia paso":abs(Tiempo/1000000 - Tiempo_paso),"Diferencia con paso anterior":abs( abs(Tiempo/1000000 - Tiempo_paso) - Diferencia_paso),
                  "Tiempo desde primer mensaje (s)":Tiempo/1000000-tiempo_inicio/1000000,
                  "LDR":LDR,}
-                 diferencias += abs( abs(Tiempo/1000000 - Tiempo_paso) - Diferencia_paso) 
                  Diferencia_paso = abs(Tiempo/1000000 - Tiempo_paso)
 
                  if (contadorvueltas != len(meta_data)-1 ):
@@ -60,7 +58,6 @@ with open('contadorvueltas1.csv')as file:
                  
                  metasList.append(meta)
                  json_object=json.dumps(metasList,indent=5)
-                 print("%f" % (((diferencias - 75.84750899999997) / 14)))
 
          valor_anterior=LDR
          
