@@ -5,7 +5,7 @@ import numpy as np
 
 tiempo_anterior=0
 Tiempo_Vuelta=0
-Tiempo_paso	= 0
+Tiempo_paso = 0
 metasList=[]
 Tiempo=0
 json_object=""
@@ -17,14 +17,14 @@ MetaThreshold = 70
 
 clockwise=1
 
-with open('contadorvueltas1.csv')as file:
+with open('LapTracker_Indianapolis_filtered.csv')as file:
  reader=csv.reader(file)
  row1=next(reader)
  tiempo_inicio=float(row1[3])
  print("Tiempoinicio",tiempo_inicio/1000000)
 
 
- with open("metas.json","r")as rf:
+ with open("Laps_Indianapolis.json","r")as rf:
      meta_data=json.load(rf)
 
      contadorvueltas=0
@@ -41,7 +41,7 @@ with open('contadorvueltas1.csv')as file:
 
          if LDR-valor_anterior>MetaThreshold:
              if Tiempo-tiempo_anterior>100000:
-                 print("Cambio:",Tiempo/1000000,LDR-valor_anterior)
+                 print("Meta:",Tiempo/1000000)
                  Tiempo_Vuelta=meta_data[contadorvueltas]['Tiempo Vuelta (s)']
                  Tiempo_paso = meta_data[contadorvueltas]['Tiempo paso por meta (s)']
 
@@ -62,5 +62,5 @@ with open('contadorvueltas1.csv')as file:
          valor_anterior=LDR
          
 
-with open("resultadoscontador.json","w")as outfile:
+with open("LapTrackerResults_Indianapolis.json","w")as outfile:
  outfile.write(json_object+"\n")

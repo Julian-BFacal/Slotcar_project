@@ -92,8 +92,8 @@ def Jsonoutput(v,c,tipo):
         }
     elif tipo == "recta": 
         Jsontipo = {
-        	"_____________RECTA_____________": "",
-        	"(Vuelta / Sector) Nº": format(c.contadorvueltas + c.contadorsector/100,'.2f'),
+            "_____________RECTA_____________": "",
+            "(Vuelta / Sector) Nº": format(c.contadorvueltas + c.contadorsector/100,'.2f'),
             "(Sector / Tramo) Nº":  format(c.contadorsector + c.contadortramo/100,'.2f'),
             "Tiempo Tramo (s)": (v.Tiempo/1000000 - v.tiempo_anterior/1000000),
             "Tiempo paso por tramo (s)": v.Tiempo/1000000,
@@ -102,7 +102,7 @@ def Jsonoutput(v,c,tipo):
     elif tipo == "curva":
         Jsontipo = {
             ".............CURVA.............": "",
-        	"(Vuelta / Sector) Nº": format(c.contadorvueltas + c.contadorsector/100,'.2f'),
+            "(Vuelta / Sector) Nº": format(c.contadorvueltas + c.contadorsector/100,'.2f'),
             "(Sector / Tramo) Nº":  format(c.contadorsector + c.contadortramo/100,'.2f'),
             "Tiempo Tramo (s)": (v.Tiempo/1000000 - v.tiempo_anterior/1000000),
             "Tiempo paso por tramo (s)": v.Tiempo/1000000,
@@ -219,17 +219,17 @@ def contarVuelta(values,c):
     i_antiguo = ""
     if (values.exploring == 1):
         for i in TrackMap:
- 	         if i != i_antiguo and i_antiguo != ""  :
- 	     	    temp_list.append(i_antiguo)
- 	     	    values.result.append(temp_list)
- 	     	    temp_list = []
- 	         elif i_antiguo != "":
- 	     	    temp_list.append(i_antiguo)
- 	     	    if contador+1 == len(TrackMap):
- 	     	    	temp_list.append(i)
- 	     	    	values.result.append(temp_list)
- 	         i_antiguo = i
- 	         contador += 1
+             if i != i_antiguo and i_antiguo != ""  :
+                temp_list.append(i_antiguo)
+                values.result.append(temp_list)
+                temp_list = []
+             elif i_antiguo != "":
+                temp_list.append(i_antiguo)
+                if contador+1 == len(TrackMap):
+                    temp_list.append(i)
+                    values.result.append(temp_list)
+             i_antiguo = i
+             contador += 1
 
     values.exploring = 2
     values.tiempo_anterior = values.Tiempo
@@ -271,8 +271,8 @@ def contarRecta(values,c):
 
     elif (values.exploring == 2):
         if (values.last_value != "C" and values.last_value  != ""):
-    	    c.contadorsector += 1
-    	    if (c.contadorsector <= len(values.result)):
+            c.contadorsector += 1
+            if (c.contadorsector <= len(values.result)):
                 if (c.contadortramo < len(values.result[c.contadorsector-1])):
                     meta =  {
                     "Posible Perdida de": values.result[c.contadorsector-1][0],
@@ -285,9 +285,9 @@ def contarRecta(values,c):
                     tramosList.append(meta)
                
                 
-    	    c.contadortramo = 0
-    	    meta = { "Cambio a": "R"}
-    	    tramosList.append(meta)
+            c.contadortramo = 0
+            meta = { "Cambio a": "R"}
+            tramosList.append(meta)
 
     values.last_value = "C"
     c.contadortramo += 1
@@ -339,7 +339,7 @@ def contarCurva(values,c):
     tramosList.append(curva)
     valor += 1
 
-with open('slotcar1.csv') as file:
+with open('slotcar_Indianapolis_filtered.csv') as file:
     reader = csv.reader(file)
     row1 = next(reader)
     tiempo_inicio = float(row1[7])
@@ -394,13 +394,13 @@ with open('slotcar1.csv') as file:
 
 print(TrackMap) 
 print(values.result) 
-print(valor)   
+print("Tramos:",valor)   
         
 
-with open("resultados.json", "w") as outfile:
-	outfile.write(json_object  + "\n")
+with open("Results_Indianapolis.json", "w") as outfile:
+    outfile.write(json_object  + "\n")
 
-with open("metas.json", "w") as outfile:
+with open("Laps_Indianapolis.json", "w") as outfile:
     outfile.write(json_object_meta  + "\n")
 
 
