@@ -7,7 +7,7 @@
           "Tiempo paso por meta(s)": 306.186021,
           "Tiempo paso por meta(s) coche": 230.338512,
           "Diferencia paso": 75.84750899999997,
-          "Diferencia pasos": 75.84750899999997,
+          "Diferencia con paso anterior": 75.84750899999997,
           "Tiempo desde primer mensaje (s)": 9.563102999999956,
           "LDR": 462.0
      },
@@ -19,7 +19,7 @@
           "Tiempo paso por meta(s)": 313.668152,
           "Tiempo paso por meta(s) coche": 237.739364,
           "Diferencia paso": 75.92878800000003,
-          "Diferencia pasos": 0.08127900000005184,
+          "Diferencia con paso anterior": 0.08127900000005184,
           "Tiempo desde primer mensaje (s)": 17.045233999999994,
           "LDR": 707.0
      },
@@ -31,7 +31,7 @@
           "Tiempo paso por meta(s)": 321.331076,
           "Tiempo paso por meta(s) coche": 245.390496,
           "Diferencia paso": 75.94057999999998,
-          "Diferencia pasos": 0.01179199999995717,
+          "Diferencia con paso anterior": 0.01179199999995717,
           "Tiempo desde primer mensaje (s)": 24.70815799999997,
           "LDR": 734.0
      },
@@ -43,7 +43,7 @@
           "Tiempo paso por meta(s)": 325.832748,
           "Tiempo paso por meta(s) coche": 249.87694,
           "Diferencia paso": 75.95580799999999,
-          "Diferencia pasos": 0.015228000000007569,
+          "Diferencia con paso anterior": 0.015228000000007569,
           "Tiempo desde primer mensaje (s)": 29.209829999999954,
           "LDR": 723.0
      },
@@ -55,7 +55,7 @@
           "Tiempo paso por meta(s)": 330.150215,
           "Tiempo paso por meta(s) coche": 254.151142,
           "Diferencia paso": 75.99907300000001,
-          "Diferencia pasos": 0.04326500000001943,
+          "Diferencia con paso anterior": 0.04326500000001943,
           "Tiempo desde primer mensaje (s)": 33.527296999999976,
           "LDR": 637.0
      },
@@ -67,7 +67,7 @@
           "Tiempo paso por meta(s)": 333.616594,
           "Tiempo paso por meta(s) coche": 257.579681,
           "Diferencia paso": 76.03691300000003,
-          "Diferencia pasos": 0.03784000000001697,
+          "Diferencia con paso anterior": 0.03784000000001697,
           "Tiempo desde primer mensaje (s)": 36.993675999999994,
           "LDR": 667.0
      },
@@ -79,7 +79,7 @@
           "Tiempo paso por meta(s)": 337.104526,
           "Tiempo paso por meta(s) coche": 261.058186,
           "Diferencia paso": 76.04634000000004,
-          "Diferencia pasos": 0.009427000000016506,
+          "Diferencia con paso anterior": 0.009427000000016506,
           "Tiempo desde primer mensaje (s)": 40.481607999999994,
           "LDR": 634.0
      },
@@ -91,7 +91,7 @@
           "Tiempo paso por meta(s)": 341.589562,
           "Tiempo paso por meta(s) coche": 265.544831,
           "Diferencia paso": 76.04473100000001,
-          "Diferencia pasos": 0.0016090000000303917,
+          "Diferencia con paso anterior": 0.0016090000000303917,
           "Tiempo desde primer mensaje (s)": 44.966643999999974,
           "LDR": 642.0
      },
@@ -103,7 +103,7 @@
           "Tiempo paso por meta(s)": 346.160772,
           "Tiempo paso por meta(s) coche": 270.082735,
           "Diferencia paso": 76.078037,
-          "Diferencia pasos": 0.03330599999998185,
+          "Diferencia con paso anterior": 0.03330599999998185,
           "Tiempo desde primer mensaje (s)": 49.53785399999998,
           "LDR": 754.0
      },
@@ -115,7 +115,7 @@
           "Tiempo paso por meta(s)": 349.264355,
           "Tiempo paso por meta(s) coche": 273.139764,
           "Diferencia paso": 76.12459100000001,
-          "Diferencia pasos": 0.04655400000001464,
+          "Diferencia con paso anterior": 0.04655400000001464,
           "Tiempo desde primer mensaje (s)": 52.641436999999996,
           "LDR": 513.0
      },
@@ -127,7 +127,7 @@
           "Tiempo paso por meta(s)": 352.350492,
           "Tiempo paso por meta(s) coche": 276.24859,
           "Diferencia paso": 76.101902,
-          "Diferencia pasos": 0.022689000000013948,
+          "Diferencia con paso anterior": 0.022689000000013948,
           "Tiempo desde primer mensaje (s)": 55.72757399999995,
           "LDR": 450.0
      },
@@ -139,7 +139,7 @@
           "Tiempo paso por meta(s)": 356.850798,
           "Tiempo paso por meta(s) coche": 280.677605,
           "Diferencia paso": 76.17319299999997,
-          "Diferencia pasos": 0.07129099999997379,
+          "Diferencia con paso anterior": 0.07129099999997379,
           "Tiempo desde primer mensaje (s)": 60.22787999999997,
           "LDR": 802.0
      },
@@ -151,7 +151,7 @@
           "Tiempo paso por meta(s)": 360.676164,
           "Tiempo paso por meta(s) coche": 284.474409,
           "Diferencia paso": 76.20175500000005,
-          "Diferencia pasos": 0.028562000000079024,
+          "Diferencia con paso anterior": 0.028562000000079024,
           "Tiempo desde primer mensaje (s)": 64.053246,
           "LDR": 802.0
      },
@@ -163,7 +163,7 @@
           "Tiempo paso por meta(s)": 369.020711,
           "Tiempo paso por meta(s) coche": 292.747468,
           "Diferencia paso": 76.27324299999998,
-          "Diferencia pasos": 0.07148799999993116,
+          "Diferencia con paso anterior": 0.07148799999993116,
           "Tiempo desde primer mensaje (s)": 72.39779299999998,
           "LDR": 581.0
      },
@@ -175,7 +175,7 @@
           "Tiempo paso por meta(s)": 380.060004,
           "Tiempo paso por meta(s) coche": 303.673139,
           "Diferencia paso": 76.386865,
-          "Diferencia pasos": 0.11362200000002076,
+          "Diferencia con paso anterior": 0.11362200000002076,
           "Tiempo desde primer mensaje (s)": 83.43708599999997,
           "LDR": 634.0
      }
