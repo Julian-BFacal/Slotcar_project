@@ -13,7 +13,7 @@ rolling=0
 LDRDRow=17
 LDRIRow=21
 Diferencia_paso = 0
-MetaThreshold = 70  
+MetaThreshold = 200  
 
 clockwise=1
 
