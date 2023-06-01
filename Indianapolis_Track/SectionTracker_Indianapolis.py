@@ -18,6 +18,7 @@ class contador_class:
     contadorvueltas = 0
     contadortramo = 0
     contadorsector = 0
+    contadorderrape = 0
 
 
 class values_class:
@@ -30,7 +31,7 @@ class values_class:
     RectaThreshold = 25
     LDRDThreshold = -32
     LDRIThreshold =  -20
-    MetaThreshold = -35
+    MetaThreshold = -25
     DerrapeEntradaThreshold = -450
     DerrapeSalidaThreshold = -100
     DerrapeThreshold = 500
@@ -237,6 +238,7 @@ def contarVuelta(values,c):
     tramosList.append(meta)
     metasList.append(meta)
     valor += 1
+    contadorderrape = 0
     
 
 
@@ -295,6 +297,7 @@ def contarRecta(values,c):
     values.tiempo_anterior = values.Tiempo
     tramosList.append(recta)
     valor += 1
+    c.contadorderrape = 0
     
 
 def contarCurva(values,c):
@@ -338,6 +341,15 @@ def contarCurva(values,c):
     values.tiempo_anterior = values.Tiempo
     tramosList.append(curva)
     valor += 1
+    c.contadorderrape = 0
+
+def contarDerrape(values,c):
+    if (c.contadorderrape == 0):
+        tramosList.append({"DERRAPE": values.Tiempo/1000000,})
+        values.tiempo_anterior_derrape = values.Tiempo  
+        c.contadorderrape = 1
+
+
 
 with open('slotcar_Indianapolis_filtered.csv') as file:
     reader = csv.reader(file)
@@ -370,18 +382,11 @@ with open('slotcar_Indianapolis_filtered.csv') as file:
                 contarRecta(values,contadores)
 
             elif (esDerrape(values,ventana)):
-
-                tramosList.append({"DERRAPE": values.Tiempo/1000000,})
-                values.tiempo_anterior_derrape = values.Tiempo  
-
+                contarDerrape(values,contadores)
 
             elif (esCurva(values)):
 
                 contarCurva(values,contadores)
-
-              
-
-           
 
             json_object = json.dumps(tramosList)
             json_object_meta = json.dumps(metasList)
