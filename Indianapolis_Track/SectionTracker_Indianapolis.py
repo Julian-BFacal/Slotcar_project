@@ -30,7 +30,7 @@ class values_class:
     RectaThreshold = 25
     LDRDThreshold = -32
     LDRIThreshold =  -20
-    MetaThreshold = -20
+    MetaThreshold = -35
     DerrapeEntradaThreshold = -450
     DerrapeSalidaThreshold = -100
     DerrapeThreshold = 500
